@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Herbal Remedies</string>
+    <string name="title_activity_main">Herbal Remedies</string>
+    <string name="package_name">com.herbalremedies.app</string>
+    <string name="custom_url_scheme">com.herbalremedies.app</string>
+</resources>
